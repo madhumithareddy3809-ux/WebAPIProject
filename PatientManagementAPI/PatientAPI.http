@@ -1,0 +1,7 @@
+POST https://localhost:7164/api/patients
+Content-Type: application/json
+{
+  "name": "Sarah",
+  "age": 30,
+  "patientId": 456
+}
